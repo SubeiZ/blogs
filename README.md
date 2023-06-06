@@ -7,6 +7,7 @@
 - [Netlify](https://electronfish.netlify.app/)
 - [GitHub Pages](https://subeiz.github.io/)
 - [Cloudflare Pages](https://dzmy.pages.dev/)
+- [InfinityFree](http://ouch.great-site.net/)
 #### 云笔记 📕
 - [个站](https://a.subeiz.com/#/)
 #### 存储 ☁
